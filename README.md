@@ -47,13 +47,13 @@ Practice/
 Mini Projects/
 Notes/
 
-## Progress
+Progress
 
-[x] Day 0 - Started Python
-[ ] Day 1 - Basics
-[ ] Day 2 - Operators
-[ ] Day 3 - Conditions
-[ ] Day 4 - Loops
+ Day 0 - Started Python
+ Day 1 - Basics
+ Day 2 - Operators
+ Day 3 - Conditions
+ Day 4 - Loops
 
 First Program
 
